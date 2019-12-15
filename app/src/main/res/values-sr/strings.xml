@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grad Niš</string>
+    <string name="app_version">Verzija: 1.0</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="city_attraction">Gradske atrakcije</string>
+    <string name="action_city_institution">Gradske institucije</string>
+    <string name="action_museums">Muzeji i spomenici</string>
+    <string name="action_news">Vesti</string>
+    <string name="action_liked">Omiljeno</string>
+    <string name="action_restaurant">Restorani</string>
+
+    <string name="action_settings">Podešavanja</string>
+    <string name="action_hotel">Hoteli</string>
+    <string name="action_weather">Vremenska prognoza</string>
+    <string name="action_event">Događaji</string>
+
+    <string name="action_map">Mapa</string>
+
+    <string name="action_info">O aplikaciji</string>
+    <string name="action_caching">Keširanje</string>
+    <string name="action_caching_summary">Prikaz stare liste vesti kada nema internet konekcije</string>
+    <string name="action_select_language">Jezik</string>
+    <string name="action_select_language_summary">Izaberite jezik</string>
+    <string name="none"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_internet_connection">Nema internet konekcije.</string>
+
+    <string name="search_hint">Pretraga...</string>
+    <string name="news">Vesti</string>
+    <string name="museum_details">Muzeji i spomenici</string>
+    <string name="attraction_details">Gradske atrakcije</string>
+    <string name="liked_details">Omiljeno</string>
+    <string name="hotel_details">Hoteli</string>
+    <string name="event_details">Događaji</string>
+    <string name="restaurant_details">Restorani</string>
+    <string name="city_nstitution_details">Gradske institucije</string>
+    <string name="adventure_details">Avanture u okolini Niša</string>
+
+    <string name="city_map">Mapa grada</string>
+    <string name="details_of_the_news">Detalji vesti</string>
+
+    <string name="weather_forecast">Vremenska prognoza za Niš</string>
+    <string name="open_weather_api_key">36155190785b40eb9dbba20bd23a1ad2</string>
+    <string name="wind_speed">brzina vjetra: </string>
+    <string name="toast_service_not_available">Servis nije dostupan</string>
+    <string name="humidity">vlažnost: </string>
+    <string name="pressure">pritisak: </string>
+    <string name="title_activity_my_settings">MySettingsActivity</string>
+
+
+    <!--  weather -->
+    <string name="news_feed_url">http://niskevesti.rs/feed/</string>
+
+
+
+    <!-- settings programaticly -->
+    <string name="shared_preferences_key">sharedPreferencesData</string>
+    <string name="caching_news_data_boolean">cachingNewsData</string>
+
+    <string name="en">strings</string>
+    <string name="shared_preferences_language">sharedPreferencesLanguage</string>
+    <string name="language_value_en">en</string>
+    <string name="language_value_sr">sr</string>
+    <string name="language_preference_key">languagePreferenceKey</string>
+    <string name="caching_preference_key">applicationCaching</string>
+    <string name="shared_preferences_locale_key">locale</string>
+    <!-- settings programaticly -->
+
+
+    <string name="list_languages">list_languages</string>
+    <string name="list_values">list_values</string>
+
+
+</resources>

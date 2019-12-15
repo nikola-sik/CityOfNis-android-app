@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">City of Nis</string>
+    <string name="app_version">Version: 1.0</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="city_attraction">City ccractions</string>
+    <string name="action_city_institution">City institution</string>
+    <string name="action_museums">Museums and monuments</string>
+    <string name="action_news">News</string>
+    <string name="action_liked">Favourites</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_hotel">Hotels</string>
+    <string name="action_weather">Weather forecast</string>
+    <string name="action_event">Events</string>
+    <string name="action_map">Map</string>
+    <string name="action_caching">Caching</string>
+    <string name="action_caching_summary">Display the old news list when there is no internet connection</string>
+    <string name="action_select_language">Language</string>
+    <string name="action_select_language_summary">Select another language</string>
+    <string name="action_info">About application</string>
+    <string name="action_restaurant">Restaurants</string>
+    <string name="none"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_internet_connection">No internet connection.</string>
+
+
+    <string name="search_hint">Search...</string>
+    <string name="news">News</string>
+    <string name="museum_details">Museums and monuments</string>
+    <string name="attraction_details">City attractions</string>
+    <string name="liked_details">Favourites</string>
+    <string name="city_nstitution_details">City institutions</string>
+    <string name="hotel_details">Hotels</string>
+    <string name="event_details">Events</string>
+    <string name="restaurant_details">Restaurants</string>
+    <string name="adventure_details">Adventures near Nis</string>
+
+
+    <!-- settings programaticly -->
+    <string name="shared_preferences_key">sharedPreferencesData</string>
+    <string name="caching_news_data_boolean">cachingNewsData</string>
+
+    <string name="en">strings</string>
+    <string name="shared_preferences_language">sharedPreferencesLanguage</string>
+    <string name="language_value_en">en</string>
+    <string name="language_value_sr">sr</string>
+    <string name="language_preference_key">languagePreferenceKey</string>
+    <string name="caching_preference_key">applicationCaching</string>
+    <string name="shared_preferences_locale_key">locale</string>
+    <!-- settings programaticly -->
+
+    <string name="city_map">City map</string>
+    <string name="details_of_the_news">Details of the news</string>
+
+
+    <!--  weather -->
+    <string name="weather_forecast">Weather forecast city of Niš</string>
+    <string name="open_weather_api_key">36155190785b40eb9dbba20bd23a1ad2</string>
+    <string name="wind_speed">wind speed: </string>
+    <string name="toast_service_not_available">Service is not available</string>
+    <string name="humidity">humidity: </string>
+    <string name="pressure">pressure: </string>
+    <string name="title_activity_my_settings">MySettingsActivity</string>
+
+
+    <!--  weather -->
+    <string name="news_feed_url">http://niskevesti.rs/feed/</string>
+
+
+
+    <string name="list_languages">list_languages</string>
+    <string name="list_values">list_values</string>
+
+</resources>

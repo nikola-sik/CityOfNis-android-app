@@ -1,0 +1,43 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="news_list_item_image_margin">2dp</dimen>
+    <dimen name="weather_text">20sp</dimen>
+    <dimen name="weather_text_temperature">50sp</dimen>
+    <dimen name="weather_margin_top">20dp</dimen>
+
+    <!-- activity preview dimension-->
+    <dimen name="activity_preview_description">16sp</dimen>
+    <dimen name="activity_preview_margin">8dp</dimen>
+    <dimen name="activity_preview_padding">8dp</dimen>
+    <dimen name="activity_preview_name_size">24sp</dimen>
+    <dimen name="activity_preview_image_height">200dp</dimen>
+
+    <!-- list item dimension-->
+    <dimen name="list_item_card_view_margin_bottom">8dp</dimen>
+    <dimen name="list_item_card_view_elevation">5dp</dimen>
+    <dimen name="list_item_image_height">200dp</dimen>
+    <dimen name="list_item_name_width">0dp</dimen>
+    <dimen name="list_item_name_height">55dp</dimen>
+    <dimen name="list_item_toggle_height">55dp</dimen>
+    <dimen name="list_item_toggle_padding">5dp</dimen>
+    <dimen name="list_item_name_length">30dip</dimen>
+    <dimen name="list_item_name_text_size">20sp</dimen>
+    <dimen name="list_item_name_paddingLeft">16dp</dimen>
+
+
+
+    <!-- about dimension-->
+    <dimen name="about_top_margin_name">40dp</dimen>
+    <dimen name="about_top_margin_version">10dp</dimen>
+    <dimen name="about_app_name_text_size">40sp</dimen>
+    <dimen name="about_app_version_text_size">20sp</dimen>
+    <dimen name="about_top_margin_image">40dp</dimen>
+
+
+</resources>

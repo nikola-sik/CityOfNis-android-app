@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:title="@string/action_caching"
+        android:defaultValue="true"
+        android:summary="@string/action_caching_summary"
+        android:key="applicationCaching"
+        />
+
+    <ListPreference
+        android:title="@string/action_select_language"
+        android:summary="@string/action_select_language_summary"
+        android:key="@string/language_preference_key"
+        android:entries="@array/list_languages"
+        android:entryValues="@array/list_values"
+        />
+
+</PreferenceScreen>

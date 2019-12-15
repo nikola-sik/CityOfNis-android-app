@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary1">#3F51B5</color>
+    <color name="colorPrimaryDark1">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textBackground1">#ddffffff</color>
+
+    <color name="colorPrimary">#b2ebf2</color>
+    <color name="colorPrimaryDark">#81b9bf</color>
+
+    <color name="textBackground">#e5ffff</color>
+
+    <color name="colorPrimary2">#a7ffeb</color>
+    <color name="colorPrimaryDark3">#75ccb9</color>
+
+    <color name="textBackground2">#dbffff</color>
+
+
+    <color name="colorPrimaryDark2">#bbdefb</color>
+
+    <color name="weatherNight">#000051</color>
+    <color name="weatherDay">#bbdefb</color>
+    #001064
+    <color name="weatherNightText">#bbdefb</color>
+    <color name="weatherDayText">#001064</color>
+
+
+
+    <!-- list_item_colors -->
+    <color name="list_item_name_background">#ddffffff</color>
+
+
+
+</resources>
